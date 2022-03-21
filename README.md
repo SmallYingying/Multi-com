@@ -14,4 +14,6 @@ How to use the code:
 - 
 - Please send all questions/inquires to syzhang13@163.com 
 -   
-- We thank the author MorvanZhou for his RL class codes and the author Le Liang for his paper "Spectrum sharing in vehicular networks based on multi-agent reinforcement learning" codes, which are available at: https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow https://github.com/le-liang/MARLspectrumSharingV2X
+- We thank the author MorvanZhou for his RL class codes and the author Le Liang for his paper "Spectrum sharing in vehicular networks based on multi-agent reinforcement learning" codes, which are available at: 
+https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
+https://github.com/le-liang/MARLspectrumSharingV2X
